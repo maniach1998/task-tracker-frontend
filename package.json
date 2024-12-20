@@ -1,5 +1,6 @@
 {
   "name": "task-tracker-frontend",
+  "description": "Nooro task tracker frontend with Next.js Typescript + TailwindCSS + Shadcn/UI + LucideReact + React Query",
   "version": "0.1.0",
   "private": true,
   "scripts": {
